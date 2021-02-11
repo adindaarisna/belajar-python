@@ -1,3 +1,5 @@
+//try new deh
+
 def kembalian(uang,lembar):
     nmilo,ncola,nsosro,naqua=0,0,0,0
     sisa=uang*lembar
